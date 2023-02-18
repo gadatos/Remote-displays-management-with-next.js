@@ -48,7 +48,7 @@ I have prepared the application in order to learn programming.
 
 Then, to the ./public folder, I put the photos numbered accordingly: 1.png, 2.png, 3.png...
 
-## Użycie 
+## Usage 
 
 Use the arrows to change the value by adding or subtracting it
 
