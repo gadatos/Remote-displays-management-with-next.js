@@ -1,4 +1,4 @@
-# Remote-displays-management-with-next.js
+# Remote-displays-management-with-next.js & Socket.io 
 
 Next.js, Tailwind CSS,Socket.io
 
